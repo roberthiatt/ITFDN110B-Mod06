@@ -6,7 +6,6 @@
 #              Add the each dictionary "row" to a python list "table"
 # ChangeLog (Who,When,What):
 #                           RRoot,1.1.2030,Created starter script
-#                           RHiatt,2.16.2021,Added code to complete Assignment05
 #                           RHiatt,2.21.2021,Incorporated RRoot's Assignment06 code & modified
 # -------------------------------------------------------------------------------------------- #
 
